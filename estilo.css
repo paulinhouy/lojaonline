@@ -1,0 +1,108 @@
+body{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+ 
+}   
+header {
+    justify-content: flex-start;
+}
+.comeco {
+    display: flex;
+    justify-content: space-around;
+    margin: 0%;
+    position: relative;
+    top: 3vh;
+
+   
+}
+.comeca {
+    display: flex;
+    
+    position: relative;
+    top: 4vh;
+  
+}
+#name {
+    position: relative;
+    left: -11vw;
+
+
+
+}
+#imagem {
+    width: 7vh;
+    height: 7vh;
+    position: relative;
+    left: -7vh;
+  
+}
+#pesquisa {
+    height: 6vh;
+    width: 30vw;
+    position: relative;
+    top: 1vh;
+    left: -18vw;
+}
+#comecou4 {
+    position: relative;
+    left: 4vw;
+    text-decoration: none;
+    color: black;
+}
+#comecou3 {
+    position: relative;
+    left: 3vw;
+    text-decoration: none;
+    color:black ;
+}
+#comecou2 {
+    position: relative;
+    left: 2vw;
+    text-decoration:none ;
+    color: black;
+}
+#comecou1 {
+    width: 3vh;
+    height: 3vh;
+    position: relative;
+   
+    text-decoration:none ;
+    background-color: deeppink;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px 10px;
+   text-align: center;
+   font-size: 3vh;
+
+}
+#comecou5 {
+    position: relative;
+    top: 2vh;
+    left: -4vw;
+    color: black;
+}
+#comecou6 {
+    width: 5px;
+    height: 5px;
+    position: relative;
+    top: 2vh;
+    left: -2vw;
+    color: black;
+    text-decoration: none;
+    background-color: deeppink;
+    width: 5vw;
+    height: 5vh;
+    border: 2px solid black;
+    font-size: 3vh;
+    border-radius: 10px 10px ;
+}
+.box {
+    background-color: gainsboro;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    top: 3vh;
+}
+
+
