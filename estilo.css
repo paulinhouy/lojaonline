@@ -99,10 +99,31 @@ header {
 }
 .box {
     background-color: gainsboro;
-    height: 100vh;
+    height: 80vh;
     width: 100vw;
     position: relative;
     top: 3vh;
 }
+h2 {
+    max-width: 35vw;
+    font-size: 15vh;
+    text-align:center;
+    position: relative;
+    top: 24vh;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#person {
+    text-shadow: 1px 1px 1px deeppink ;
+    position: relative;
+    top: -18vh;
+    left: 2vw;
+    font-size: 4vh;
 
-
+}
+#video {
+    height: 80vh;
+    width: 45vw;
+    position: relative;
+    left: 50vw;
+    top: -43vh;
+}
