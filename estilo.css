@@ -76,7 +76,7 @@ header {
 #comecou1 {
     width: 3vh;
     height: 3vh;
-    position: relative;
+    padding: 4px;
    
     text-decoration:none ;
     background-color: deeppink;
@@ -106,7 +106,8 @@ header {
     height: 5vh;
     border: 2px solid black;
     font-size: 3vh;
-    border-radius: 10px 10px ;
+    border-radius: 40px 40px ;
+    padding: 6px;
 }
 .box {
     background-color: gainsboro;
@@ -161,15 +162,70 @@ h2 {
     width: 13vw;
     position: relative;
     left: 4vw;
-    top: 0vh;
+    top: -47%;
+    
 }
-#mane2 {
+#imagem2,#imagem3 {
+    max-height: 80%; 
+}
+#imagem2,#imagem3 {
+ position: relative;
+ left: 27%;
+ top: 20%;
+
+}
+
+
+#desconto {
+position: relative;
+top: 10%;
+left: -6vw;
+border-radius: 50%;
+border: 2px solid;
+padding: 7px;
+background-color: green;
+width: 20;
+display: inline-block;
+
+}
+
+#desconto1,#desconto2 {
+ position: relative;
+ top: -90%;
+ left: -30%;
+ border-radius: 50%;
+ border: 2px solid;
+ padding: 7px;
+
+background-color: green;
+display: inline-block;
+}
+
+
+
+#name2 {
  
     position: relative;
+    top: 4vh;
     left: -2vw;
+    max-width: 80%;
    
     
 
+}
+
+#name3 {
+ position: relative;
+ top: -10vh;
+ left: -3vw;
+
+}
+
+#name4 {
+    position: relative;
+    top: -10vh;
+    left: -3vw;
+    
 }
 .estilo {
    height: 50vh;
@@ -178,7 +234,8 @@ h2 {
 #caixa1 {
  position: relative;
  left: 16vw;
- top: -0vh;
+ top: 4%;
+
 }
 
 #caixa2 {
