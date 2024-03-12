@@ -340,12 +340,16 @@ main {
 
 height: 100vh;
 width: 100vw;
+background-color: gainsboro;
 
 }
 
 
 section {
 background-color: gainsboro;
+justify-content: space-around;
+
+
 }
 .espaco {
     width: 100%;
@@ -368,4 +372,27 @@ background-color: gainsboro;
 }
 .card-title {
     text-align: center;
+}
+
+.balao1 {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 20vh;
+    background-color: gainsboro;
+ 
+}
+.card {
+  border: 2px solid black;
+}
+#click {
+    position: relative;
+    left: 6vw;
+}
+.card-text {
+    align-items: baseline;
+    font-size: 20px;
+  color:rgb(243, 100, 48)
+  
+  
 }
