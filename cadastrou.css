@@ -1,0 +1,60 @@
+body {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    background-color: 
+    
+ }
+
+ header {
+    background-color: ghostwhite;
+    display: flex;
+    flex-direction: row;
+ height: 15vh;
+
+
+
+
+ }
+ main{
+    background-color: deeppink;
+    height:100vh;
+  
+ }
+ footer{
+    background-color: deeppink;
+ }
+ form {
+   
+    width: 30%;
+    position: relative;
+    font-size: 20px;
+
+    
+  
+    
+ }
+ #pato {
+    height: 7vh;
+    width: 3vw; 
+   
+    position: relative;
+    top: 2vh;
+    left: 1vw;
+
+ }
+ h1 {
+    font-size:40px;
+    padding: 0;
+   margin-top: 0%;
+
+   position: relative;
+   top: 2vh;
+   left: 2vw;
+ }
+ a {
+  color: black;
+  position: relative;
+  top: 5vh;
+  left: 64vw;
+ }
