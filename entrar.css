@@ -28,7 +28,7 @@ body {
  
  form {
    
-    width: 40%;
+    width: 30vw;
     height: 50vh;
     position: relative;
     top: 20vh;
@@ -65,4 +65,7 @@ body {
   position: relative;
   top: 5vh;
   left: 64vw;
+ }
+ .formu {
+    text-align: center;
  }
