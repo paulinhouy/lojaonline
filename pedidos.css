@@ -1,0 +1,78 @@
+body {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    
+ }
+
+ header {
+    background-color: ghostwhite;
+    display: flex;
+    flex-direction: row;
+ height: 15vh;
+
+
+
+
+ }
+ #pato {
+    height: 7vh;
+    width: 3vw; 
+   
+    position: relative;
+    top: 2vh;
+    left: 1vw;
+
+ }
+ #nome {
+    font-size:30px;
+    padding: 0;
+   margin-top: 0%;
+
+   position: relative;
+   top: 3vh;
+   left: 2vw;
+ }
+ #carrinho {
+    padding: 0%;
+    margin-top: 0%;
+    position: relative;
+    top: -5vh;
+    left: 15vw;
+    font-size:20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+   
+ }
+ #nav {
+  color: black;
+  position: relative;
+  top: 5vh;
+  left: 64vw;
+ }
+ #pesquisa {
+    height: 7vh;
+    width: 30vw;
+    position: relative;
+    top: 1vh;
+    left: -11vw;
+  
+
+}
+.btn{
+ position: relative;
+ left: -16vw;
+ height: 8vh;
+ width: 6vw;
+ top: 1vh;
+
+}
+#btn,#pesquisa {
+    position: relative;
+    left: 13vw;
+    top: 2vh;
+
+}
+#pesquisa {
+    border: 2px solid deeppink;
+}
