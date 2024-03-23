@@ -20,10 +20,7 @@ body {
     height:100vh;
   
  }
- footer{
-    background-color: deeppink;
- }
- 
+
    
  
  form {
@@ -139,3 +136,27 @@ h2 {
    top: 3vh;
 
 }
+.box10 {
+   height: 90vh;
+   width: 100vw;
+   background-color: rgba(220, 220, 220, 0.482);
+ justify-content: space-between;
+   display: flex;
+   
+}
+.sobre{
+position: relative;
+top: 10vh;
+   list-style-type: none;
+   height: 60vh;
+}
+.texto10{
+   list-style-type: none;
+   line-height: 2;
+}
+.atendi {
+   position: relative;
+   left: 2vw;
+   top: -2vh;
+}
+
